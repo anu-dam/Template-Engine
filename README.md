@@ -48,7 +48,7 @@ In addition to `Employee`'s properties and methods, `Intern` will also have:
   
   ##### output
 
-The project must generate a `team.html` page in the `output` directory, that displays a nicely formatted team roster. Each team member should display the following in no particular order:
+The project must generate a `team.html` page in the `output` directory, that displays a well formatted team roster. Each team member should display the following in no particular order:
 
   * Name
 
